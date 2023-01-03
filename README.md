@@ -9,3 +9,5 @@ Terminal based Chatbot :
 
 UI Based Chatbot :
 ![Image of output](https://github.com/datamagic2020/Chatbot-for-Biginners/blob/main/ui%20chatbot%20thumb.png)
+
+this is kind of a basic chat bot which i have created to just know about all the libraries which i have used it in this project
